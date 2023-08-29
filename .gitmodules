@@ -1,0 +1,6 @@
+[submodule "src/april-asr"]
+	path = src/april-asr
+	url = https://github.com/abb128/april-asr.git
+[submodule "src/obs-catpion"]
+	path = src/obs-catpion
+	url = https://github.com/grillo-delmal/obs-catpion
